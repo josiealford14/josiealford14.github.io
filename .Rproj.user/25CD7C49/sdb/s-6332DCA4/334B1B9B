@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "name: \"Josie's First Website\"\noutput_dir: \".\"\nnavbar:\n  title: \"Home\"\n  right:\n    - text: \"About Me\"\n      href: about.html\n    - text: \"Resume\"\n      href: resume.html\n    - icon: fa-envelope fa-lg\n      href: mailto:<josiealford14@gmail.com>\n    - icon: fa-github fa-lg\n      href: http://github.com/josiealford14/\noutput:\n  html_document:\n    theme: cosmo\n    ",
+    "created" : 1508947404214.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2829589614",
+    "id" : "334B1B9B",
+    "lastKnownWriteTime" : 1508960140,
+    "last_content_update" : 1508960140128,
+    "path" : "~/Desktop/Fall 2017 Academics/Data Science I/R/homework4_website/josiealford14.github.io/_site.yml",
+    "project_path" : "_site.yml",
+    "properties" : {
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "yaml"
+}
