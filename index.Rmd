@@ -1,0 +1,9 @@
+---
+title: "Josie Alford"
+---
+###
+### Data Science I Website
+###
+Want to know more about me? Check out my [About Me page](about.html)!
+
+Interested in my academic experiences? I have [a resume](resume.html).

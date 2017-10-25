@@ -1,0 +1,15 @@
+name: "Josie's First Website"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "About Me"
+      href: about.html
+    - text: "Resume"
+      href: resume.html
+    - icon: fa-envelope fa-lg
+      href: mailto:<josiealford14@gmail.com>
+    - icon: fa-github fa-lg
+      href: http://github.com/josiealford14/
+output:
+  html_document

@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"Josie Alford\"\n---\n###\n### Data Science I Website\n###\nWant to know more about me? Check out my [About Me page](about.html)!\n\nInterested in my academic experiences? I have [a resume](resume.html).\n",
+    "created" : 1508947407285.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3149468300",
+    "id" : "D1063AFA",
+    "lastKnownWriteTime" : 1508957587,
+    "last_content_update" : 1508957587119,
+    "path" : "~/Desktop/Fall 2017 Academics/Data Science I/R/homework4_website/gitwebsite/index.Rmd",
+    "project_path" : "index.Rmd",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

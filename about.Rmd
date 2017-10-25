@@ -1,0 +1,20 @@
+---
+title: "About Me"
+---
+###
+## Hello, My name is Josie Alford
+
+This is my personal website for Data Science I.
+
+### Academics
+
+I am a first-year Master of Science in Biostatisitcs student at Columbia University's Mailman School of Public Health. 
+
+I am interested in pursuing a career in the pharmaceutcial indsutry. 
+
+### Personal
+
+I am from Rincon, Georgia, a small country town outside of Savannah. I love to travel, go to the beach, cook, and listen to music. I am passionate about community service and American history.
+
+### Interested in my Data Science Projects?
+Check them out [here](https://github.com/josiealford14).

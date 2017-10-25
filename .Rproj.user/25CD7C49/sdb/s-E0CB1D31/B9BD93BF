@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"About Me\"\n---\n###\n## Hello, My name is Josie Alford\n\nThis is my personal website for Data Science I.\n\n### Academics\n\nI am a first-year Master of Science in Biostatisitcs student at Columbia University's Mailman School of Public Health. \n\nI am interested in pursuing a career in the pharmaceutcial indsutry. \n\n### Personal\n\nI am from Rincon, Georgia, a small country town outside of Savannah. I love to travel, go to the beach, cook, and listen to music. I am passionate about community service and American history.\n\n### Interested in my Data Science Projects?\nCheck them out [here](https://github.com/josiealford14).",
+    "created" : 1508947405193.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4202048060",
+    "id" : "B9BD93BF",
+    "lastKnownWriteTime" : 1508957547,
+    "last_content_update" : 1508957547554,
+    "path" : "~/Desktop/Fall 2017 Academics/Data Science I/R/homework4_website/gitwebsite/about.Rmd",
+    "project_path" : "about.Rmd",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
